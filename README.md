@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mohammedswalihct&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedswalihct" />
 
-## About Me
+### About Me
 
 **Hello! 👋 I'm Mohammed Swalih**, a Cybersecurity Analyst passionate about protecting digital infrastructures from evolving cyber threats. My expertise lies in identifying vulnerabilities, analyzing security incidents, and implementing solutions to strengthen the security posture of organizations.
 
@@ -12,7 +12,7 @@ I specialize in threat analysis, incident response, security monitoring, and ris
 
 ---
 
-## Education
+### Education
 - Bachelor of Computer Application | University of Calicut (_March 2020_)
 - Higher Secondary Education | NSS Higher Secondary School (_March 2017_)
 - High School Education | Rahmath Public School (_March 2015_)
